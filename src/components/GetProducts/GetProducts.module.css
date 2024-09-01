@@ -1,0 +1,138 @@
+.GetProducts {}
+
+
+/* .container {
+  width: 100%;
+  height: 100%;
+}
+
+.top {
+  height: 80%;
+  width: 100%;
+}
+
+.bottom {
+  transition: transform 0.5s;
+}
+
+.bottom.clicked {
+  transform: translateX(-50%);
+}
+
+.left {
+  height: 100%;
+  width: 50%;
+  background: #f4f4f4;
+  position: relative;
+  float: left;
+}
+
+.left .details {
+  padding: 20px;
+  float: left;
+  width: calc(70% - 40px);
+}
+
+.buy {
+  float: right;
+  width: calc(30% - 2px);
+  height: 100%;
+  background: #f1f1f1;
+  transition: background 0.5s;
+  border-left: solid thin rgba(0, 0, 0, 0.1);
+}
+
+.buy i {
+  font-size: 30px;
+  padding: 30px;
+  color: #254053;
+  transition: transform 0.5s;
+}
+
+.buy:hover {
+  background: #a6cdde;
+}
+
+.buy:hover i {
+  transform: translateY(5px);
+  color: #00394b;
+}
+
+.right {
+  width: 50%;
+  background: #a6cdde;
+  color: white;
+  float: right;
+  height: 200%;
+  overflow: hidden;
+}
+
+.right .details {
+  padding: 20px;
+  float: right;
+  width: calc(70% - 40px);
+}
+
+.done {
+  width: calc(30% - 2px);
+  float: left;
+  transition: transform 0.5s;
+  border-right: solid thin rgba(255, 255, 255, 0.3);
+  height: 50%;
+}
+
+.done i {
+  font-size: 30px;
+  padding: 30px;
+  color: white;
+}
+
+.remove {
+  width: calc(30% - 1px);
+  clear: both;
+  border-right: solid thin rgba(255, 255, 255, 0.3);
+  height: 50%;
+  background: #bc3b59;
+  transition: transform 0.5s, background 0.5s;
+}
+
+.remove:hover {
+  background: #9b2847;
+}
+
+.remove:hover i {
+  transform: translateY(5px);
+}
+
+.remove i {
+  transition: transform 0.5s;
+  font-size: 30px;
+  padding: 30px;
+  color: white;
+}
+
+.right:hover .remove,
+.right:hover .done {
+  transform: translateY(-100%);
+}
+
+.inside {
+  z-index: 9;
+  background:  #f97316;
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  top: -70px;
+  right: -70px;
+  border-radius: 0px 0px 200px 200px;
+  overflow: hidden;
+}
+
+.icon {
+  position: absolute;
+  right: 85px;
+  top: 85px;
+  color: white;
+  opacity: 1;
+}
+ */
